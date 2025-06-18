@@ -88,10 +88,8 @@ Real-time filtering and searching
 
 🙋‍♂️ Author
 👨‍💻 Purnav Bhatt
-Intern at Zentosys | MERN Stack Developer
+MERN Stack Developer
 
-🌐 Live Demo (Optional)
-🖥️ Netlify Live Link
 
 📦 Technologies Used
 React + React Bootstrap
