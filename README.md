@@ -90,12 +90,3 @@ Vite
 
 ---
 
-You can copy the entire above content into your `README.md` file, and then use this **one-bash command** to push to GitHub:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - Employment Directory Manager"
-git branch -M main
-git remote add origin https://github.com/your-username/employment-directory.git
-git push -u origin main
